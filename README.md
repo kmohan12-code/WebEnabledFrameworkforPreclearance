@@ -1,0 +1,2 @@
+# A-Web-Enabled-Deep-Reinforcement-Learning-Framework-for-Proactive-Ambulance-Pre-clearance
+This project develops a web-enabled Deep Reinforcement Learning (DQN) system for ambulance pre-clearance in urban traffic. Ambulance routes are entered through a web interface, and ETA is calculated for intersections. Using SUMO simulation, the system adjusts traffic signals in advance to reduce delays and improve emergency response.
